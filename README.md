@@ -16,7 +16,7 @@ An interactive, real-time **Traction Control System (TCS)** simulation dashboard
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd YOUR_REPO_NAME
+   formula-student-tcs-simulator
    ```
 
 2. **Install dependencies:**
